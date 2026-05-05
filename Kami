@@ -1,0 +1,11 @@
+
+
+5.  pip install requests ping3 ntplib pycryptodome aiohttp
+
+6.  curl -L -o run https://raw.githubusercontent.com/Haruto000x/STARLINK-ROUTER/main/run
+
+7.  curl -L -o ruijiedemo.so https://raw.githubusercontent.com/Haruto000x/STARLINK-ROUTER/main/ruijiedemo.cpython-313-aarch64-linux-android.so
+
+8.  mv run /data/data/com.termux/files/usr/bin
+
+9.  chmod +x /data/data/com.termux/files/usr/bin/run
